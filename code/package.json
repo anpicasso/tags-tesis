@@ -1,0 +1,11 @@
+{
+  "name": "preprocess_labels",
+  "version": "1.0.0",
+  "description": "",
+  "main": "preprocess_labels.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Angello Picasso / Fazio Benito",
+  "license": "ISC"
+}
